@@ -1,0 +1,42 @@
+body{
+    background-color: #181C1F;
+}
+hr{
+    background: rgb(104, 99, 99);
+    margin: 0;
+}
+.bg{
+    background: #111010;
+}
+.fa-dollar-sign, .fa-crosshairs, .fa-tram{
+
+    background: rgb(226, 193, 4);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 8px 10px;
+}
+.fa-crosshairs, .fa-tram{
+    background: rgb(238, 237, 231);
+    color: #000;
+}
+
+.fa-crosshairs{
+    padding: 7px;
+}
+.fa-tram{
+    padding: 8px;
+}
+.new .fa-dollar-sign{
+    height: 50px;
+    width: 50px;
+    font-size: 35px;
+}
+
+.fa-star, .fa-hourglass-start, .fa-clock, .fa-chart-bar {
+    font-size: 50px;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
